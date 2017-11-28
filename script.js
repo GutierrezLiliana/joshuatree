@@ -15,6 +15,3 @@ function showText(elem){
 function toggleBlueBackground(elem){
 	document.getElementById("jtree-background").classList.toggle("tan");
 }
-function box(elem){
-	document.getElementById("smallboxblue").classList.toggle("tan");
-}
